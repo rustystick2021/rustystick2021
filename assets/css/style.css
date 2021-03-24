@@ -191,6 +191,13 @@ section {
   margin-top: 3px;
 }
 
+@media (max-width: 768px) {
+  .header .logo span {
+    font-size: 25px;
+    line-height: 32px;
+    padding: 40px;
+  }
+}
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
